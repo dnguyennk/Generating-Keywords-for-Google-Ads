@@ -1,5 +1,5 @@
 # Generating-Keywords-for-Google-Ads
-Automatically generate keywords for a search engine marketing campaign using Python.  8 tasks 10,866 participants 1,500 XP
+Automatically generate keywords for a search engine marketing campaign using Python.
 
 ## Project Description
 Imagine that I work for a digital marketing agency, which is approached by a massive online retailer of furniture. I would be asked to create a prototype set of keywords for search campaigns for their sofas section. 
